@@ -1,26 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7c3f816-e326-4fff-956c-6e137ecf6e4b" name="Default" comment="Downloaded documentation and sources, updated MNISTClassifier.java">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numbers/0/0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numbers/1/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numbers/2/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numbers/3/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numbers/4/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numbers/5/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numbers/6/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numbers/7/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numbers/8/8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numbers/9/9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/vagabondmusicnn/MNISTClassifierTwo.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacpp_presets_ffmpeg_windows_x86_3_0_2_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacpp_presets_leptonica_windows_x86_1_73_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_bytedeco_javacpp_presets_opencv_windows_x86_3_1_0_1_2.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="e7c3f816-e326-4fff-956c-6e137ecf6e4b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vagabond-music-nn.iml" afterPath="$PROJECT_DIR$/vagabond-music-nn.iml" />
     </list>
     <ignored path="vagabond-music-nn.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -100,9 +82,9 @@
             <state relative-caret-position="255">
               <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
-                <marker date="1479431815000" expanded="true" signature="59:50883" ph="..." />
-                <marker date="1479431815000" expanded="true" signature="98:194" ph="..." />
-                <marker date="1479431815000" expanded="true" signature="50857:50872" ph="..." />
+                <marker date="1479431837000" expanded="true" signature="59:50955" ph="..." />
+                <marker date="1479431837000" expanded="true" signature="98:191" ph="..." />
+                <marker date="1479431837000" expanded="true" signature="50929:50944" ph="..." />
               </folding>
             </state>
           </provider>
@@ -811,7 +793,14 @@
       <option name="project" value="LOCAL" />
       <updated>1479085906334</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Downloaded documentation and sources, updated MNISTClassifier.java">
+      <created>1479431842557</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1479431842557</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -916,9 +905,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1479431815000" expanded="true" signature="59:50883" ph="..." />
-            <marker date="1479431815000" expanded="true" signature="98:194" ph="..." />
-            <marker date="1479431815000" expanded="true" signature="50857:50872" ph="..." />
+            <marker date="1479431837000" expanded="true" signature="59:50955" ph="..." />
+            <marker date="1479431837000" expanded="true" signature="98:191" ph="..." />
+            <marker date="1479431837000" expanded="true" signature="50929:50944" ph="..." />
           </folding>
         </state>
       </provider>
@@ -936,9 +925,9 @@
         <state relative-caret-position="255">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
-            <marker date="1479431815000" expanded="true" signature="59:50883" ph="..." />
-            <marker date="1479431815000" expanded="true" signature="98:194" ph="..." />
-            <marker date="1479431815000" expanded="true" signature="50857:50872" ph="..." />
+            <marker date="1479431837000" expanded="true" signature="59:50955" ph="..." />
+            <marker date="1479431837000" expanded="true" signature="98:191" ph="..." />
+            <marker date="1479431837000" expanded="true" signature="50929:50944" ph="..." />
           </folding>
         </state>
       </provider>
