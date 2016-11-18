@@ -26,6 +26,7 @@ import java.io.IOException;
 public class MNISTClassifier {
 
     private static Logger log = LoggerFactory.getLogger(MNISTClassifier.class);
+    private boolean saving = true;
 
     public static void main (String[] args) throws IOException {
         final int numRows = 28;
