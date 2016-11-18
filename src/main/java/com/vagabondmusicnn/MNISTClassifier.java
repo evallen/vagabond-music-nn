@@ -90,6 +90,7 @@ public class MNISTClassifier {
 
         if (saving) {
             File saveLocation = new File("products/evanMNISTClassifier");
+            saveLocation.getParentFile().mkdirs();
             boolean saveUpdater = true;
             ModelSerializer.writeModel(model, saveLocation, saveUpdater);
         }
