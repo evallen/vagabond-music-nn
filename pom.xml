@@ -24,5 +24,10 @@
             <artifactId>datavec-api</artifactId>
             <version>0.6.0</version>
         </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <version>1.7.10</version>
+            <artifactId>slf4j-log4j12</artifactId>
+        </dependency>
     </dependencies>
 </project>
