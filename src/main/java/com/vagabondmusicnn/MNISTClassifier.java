@@ -28,7 +28,7 @@ import java.io.IOException;
 public class MNISTClassifier {
 
     private static Logger log = LoggerFactory.getLogger(MNISTClassifier.class);
-    private static boolean saving = true;
+    private static boolean saving = false;
 
     public static void main (String[] args) throws IOException {
         final int numRows = 28;
@@ -36,7 +36,7 @@ public class MNISTClassifier {
         int outputNum = 10;
         int batchSize = 128;
         int rngSeed = 123;
-        int numEpochs = 15;
+        int numEpochs = 1;
 
         DataSetIterator mnistTrain = new MnistDataSetIterator(batchSize, true, rngSeed);
         DataSetIterator mnistTest = new MnistDataSetIterator(batchSize, false, rngSeed);

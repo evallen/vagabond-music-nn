@@ -29,5 +29,10 @@
             <version>1.7.10</version>
             <artifactId>slf4j-log4j12</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.explodingart</groupId>
+            <artifactId>jmusic</artifactId>
+            <version>1.6.4</version>
+        </dependency>
     </dependencies>
 </project>
